@@ -1,0 +1,139 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #8f0000c5, #000000);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+.container {
+    text-align: center;
+    background: white;
+    padding: 40px;
+    border-radius: 100px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    width: 70%;
+}
+.intro {
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: #000000;
+}
+.button-container {
+    margin-bottom: 25px;
+}
+button {
+    font-size: 18px;
+    padding: 14px 28px;
+    margin: 10px;
+    border: none;
+    border-radius: 50px;
+    background: #000763;
+    color: white;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+button:hover {
+    background: #01b5e2;
+    transform: scale(1.05);
+}
+.content {
+    display: none;
+    margin-top: 20px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 28px;
+}
+h2 {
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+h3 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+h4 {
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    text-align: center;
+}
+h5 {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+p {
+    font-size: 20px;
+    color: #000000;
+}
+.kep1 img{
+    float: center;
+    width:50%;
+}
+.kep2 img{
+    float: center;
+    width:50%;
+}
+.kep3 img{
+    float: center;
+    width:90%;
+}
+.kep4 img {
+    float: center;
+    width:80%;
+}
+.kep5 img {
+    width:70%;
+}
+.kep6 img {
+    width:90%;
+}
+.kep7 img{
+    float: center;
+    width:90%;
+}
+.kep8 img{
+    float: center;
+    width:30%;
+}
+.kep9 img{
+float: center;
+width:50%;
+}
+.kep10 img{
+float: center;
+width:50%;
+}
+.kep11 img{
+    float: center;
+    width:50%;
+    }
+.kep12 img{
+    float: center;
+    width:40%;
+    }
+.kep13 img{
+    float: center;
+    width:40%;
+    }
+.kep14 img{
+    float: center;
+    width:40%;
+    }
+.kep15 img{
+    float: center;
+    width:50%;
+    }
+.kep16 img{
+    float: center;
+    width:50%;
+    }
+.kep17 img{
+    float: center;
+    width:50%;
+    }
